@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\user\Desktop\Учеба\С++ программы\LR2\LR2\Source.cpp(64,54): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\user\Desktop\Учеба\С++ программы\LR2\LR2\Source.cpp(125,37): warning C4267: =: преобразование из "size_t" в "GLint"; возможна потеря данных
+  LR2.vcxproj -> C:\Users\user\Desktop\Учеба\С++ программы\LR2\x64\Debug\LR2.exe
