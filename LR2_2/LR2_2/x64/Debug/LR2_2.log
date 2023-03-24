@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\user\Desktop\Учеба\С++ программы\LR2_2\LR2_2\Source.cpp(87,49): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\user\Desktop\Учеба\С++ программы\LR2_2\LR2_2\Source.cpp(125,37): warning C4267: =: преобразование из "size_t" в "GLint"; возможна потеря данных
+  LR2_2.vcxproj -> C:\Users\user\Desktop\Учеба\С++ программы\LR2_2\x64\Debug\LR2_2.exe
